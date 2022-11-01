@@ -36,4 +36,4 @@ const wait = (ms)=>new Promise(r=>setTimeout(r,ms))
         }
         await wait(1000)
     }
-} main()}
+} main()}z
